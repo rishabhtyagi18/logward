@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/logward/static/css/main.f855e6bc.css",
+    "main.js": "/logward/static/js/main.ee0c16bd.js",
+    "static/js/453.fd1c67ac.chunk.js": "/logward/static/js/453.fd1c67ac.chunk.js",
+    "index.html": "/logward/index.html",
+    "main.f855e6bc.css.map": "/logward/static/css/main.f855e6bc.css.map",
+    "main.ee0c16bd.js.map": "/logward/static/js/main.ee0c16bd.js.map",
+    "453.fd1c67ac.chunk.js.map": "/logward/static/js/453.fd1c67ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ee0c16bd.js"
+  ]
+}
